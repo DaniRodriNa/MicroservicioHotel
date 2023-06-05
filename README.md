@@ -20,7 +20,7 @@ Microservicio Hotel que  recoge una lista de hoteles, actualiza la disponibilida
 * com.curso.controller
   - Clase **HotelesController.java**
   
-  > GET: Recojo la lista de los pedidos
+  > GET: Recojo la lista de los hoteles
   
   > PUT: Actualizo el hotel
 
